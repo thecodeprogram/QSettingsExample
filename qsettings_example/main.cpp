@@ -12,7 +12,6 @@ At: 14.05.2021
 using namespace std;
 
 #include <QSettings>
-#include <QVariant>
 
 #include <QSize>
 #include <QString>
