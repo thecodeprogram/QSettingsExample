@@ -1,3 +1,10 @@
+/*
+This File Created
+By: Burak Hamdi TUFAN
+On: https://thecodeprogram.com/
+At: 14.05.2021
+*/
+
 #include <QCoreApplication>
 #include <iostream>
 #include <QDebug>
@@ -7,16 +14,12 @@ using namespace std;
 #include <QSettings>
 #include <QVariant>
 
-#include <QList>
-
 #include <QSize>
 #include <QString>
 #include <QStringList>
 
 #include <QMetaType>
-#include <QSettings>
 #include <QVariant>
-
 #include <QDataStream>
 
 struct UserCLass {
